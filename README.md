@@ -14,6 +14,11 @@ C108118247  | 陳冠廷
 ***
 ![fig](relexing.png "relexing")
 ***
+```csharp
+private void index(){
+  MessageBox.Show("Hi! This is demo.");
+}
+``` 
 ***
 [高科大](http://www.nkust.edu.tw)
 ![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png)
